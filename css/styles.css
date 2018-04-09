@@ -1,0 +1,8 @@
+div.pp_default .pp_description {font-size: 14px;font-weight: normal;margin: 5px 0 5px 0;}
+p.lead {margin-top: 50px;}
+p.pp_description {text-align: center;padding: 10px;color: #000000;}
+ul.social li {display: inline-block;width: 24%;text-align: center;}
+#contact .box h1, #contact .box h2, #contact .box h3 {margin-bottom: 25px;}
+#skills table {width: 100%;}
+#main-slider {padding: 150px 0;}
+.maxed {max-width: 200px;}
