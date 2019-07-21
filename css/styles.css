@@ -22,6 +22,7 @@ ul.social li {display: inline-block;width: 24%;text-align: center;}
 .portfolio-filter > li {line-height: 40px;}
 .img-responsive.img {max-width:200px;}
 
+ul.social li,
 .portfolio-items.col-4 > li {width: 100%;}
 
 @media (min-width: 600px){
@@ -29,6 +30,7 @@ ul.social li {display: inline-block;width: 24%;text-align: center;}
 }
 
 @media (min-width: 1000px){
+	ul.social li {width: 33%;}
 	.portfolio-items.col-4 > li {width: 33.33333333333%;}
 }
 
